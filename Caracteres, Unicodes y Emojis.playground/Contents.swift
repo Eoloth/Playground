@@ -7,3 +7,6 @@ let myCharacter2 = "\u{24}"
 // Caracteres especiales (\n,, \r, \t...)
 let myString = "Hola \ncomo estas?"
 
+// Emojis
+let myEmoji = "\u{1F496}"
+
