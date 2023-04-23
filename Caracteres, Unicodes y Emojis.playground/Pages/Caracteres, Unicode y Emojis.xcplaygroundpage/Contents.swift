@@ -8,5 +8,5 @@ let myCharacter2 = "\u{24}"
 let myString = "Hola \ncomo estas?"
 
 // Emojis
-let myEmoji = "\u{1F496}"
+let myEmoji = "🦁"
 
