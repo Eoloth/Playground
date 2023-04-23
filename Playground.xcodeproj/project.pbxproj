@@ -6,10 +6,17 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXFileReference section */
+		EABD379129F5C74800119476 /* CaracteresYCadenas.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CaracteresYCadenas.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EABD379229F5C76B00119476 /* Caracteres, Unicodes y Emojis.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Caracteres, Unicodes y Emojis.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		EA67AE4F29F5C4FF007DA0B5 = {
 			isa = PBXGroup;
 			children = (
+				EABD379229F5C76B00119476 /* Caracteres, Unicodes y Emojis.playground */,
+				EABD379129F5C74800119476 /* CaracteresYCadenas.playground */,
 			);
 			sourceTree = "<group>";
 		};
